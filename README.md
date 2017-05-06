@@ -1,2 +1,2 @@
-# laughing-meme
+# note-and-experience
 My first repository.
